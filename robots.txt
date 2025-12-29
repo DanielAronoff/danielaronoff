@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danielaronoff.github.io/danielaronoff/sitemap.xml
+Sitemap: https://DanielAronoff.github.io/danielaronoff/sitemap.xml
