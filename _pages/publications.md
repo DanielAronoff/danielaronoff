@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
-nav: true
+description:  
+nav:  true
 nav_order: 2
 ---
 
@@ -11,7 +11,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query @book %}
+{% bibliography --file books %}
 
 </div>
 
@@ -19,6 +19,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query @unpublished %}
+{% bibliography --file working_papers %}
 
 </div>
