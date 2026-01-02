@@ -31,14 +31,14 @@ nav_order: 2
 
 **Aronoff, D.** and R. M. Townsend (2025). A Smart-Contract to Resolve Multiple Equilibrium in an Intermediated Repo Trade. arXiv preprint. [Link](https://doi.org/10.48550/arXiv.2505.22940)
 
-**Aronoff, D. **, R. M. Townsend, and M. Virza (2025). TradeMech: Multilateral Netting Without Altering Counterparty Risk. unpublished manuscript, MIT.  [Link](#)
+**Aronoff, D.**, R. M. Townsend, and M. Virza (2025). TradeMech: Multilateral Netting Without Altering Counterparty Risk. unpublished manuscript, MIT.  [Link](#)
 
-**Aronoff, D.  J.**, R. M.  Townsend, and M.  Virza (2025). *RepoMech: A Method to Reduce the Balance-Sheet Impact of Repo Intermediation. * [Link](https://arxiv.org/abs/2512.23842)
+**Aronoff, D. J.**, R. M.  Townsend, and M. Virza (2025). *RepoMech: A Method to Reduce the Balance-Sheet Impact of Repo Intermediation.* [Link](https://arxiv.org/abs/2512.23842)
 
 **Aronoff, D.** (2024d). Targeted Nakamoto: A Bitcoin Protocol to Balance Network Security and Carbon Emissions. arXiv preprint, version 4. [Link](https://arxiv.org/abs/2405.15089)
 
 **Aronoff, D.** and W. Rafey (2023). Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands.  NBER Working Paper. [Link](https://doi.org/10.3386/w31495)
 
-Moroz, D. J., **D. J.  Aronoff**, N.  Narula, and D. C.  Parkes (2020). Double-Spend Counterattacks:  Threat of Retaliation in Proof-of-Work Systems.  arXiv preprint. [Link](https://doi.org/10.48550/arXiv.2002.10736)
+Moroz, D. J., **D. J. Aronoff**, N.  Narula, and D. C.  Parkes (2020). Double-Spend Counterattacks:  Threat of Retaliation in Proof-of-Work Systems.  arXiv preprint. [Link](https://doi.org/10.48550/arXiv.2002.10736)
 
 </div>
