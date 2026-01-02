@@ -9,7 +9,7 @@ last_name: Aronoff
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a Research Affiliate at the MIT Department of Economics, a Research Associate at the Laboratory for Economic Analysis and Design at MIT, and a Collaborator at the MIT Media Lab Digital Currency Initiative.  My primary research focus is at the intersection of economics and cryptography, including blockchain protocol design, the study of stablecoins, and environmental market mechanisms.  I have also published two books on the 2008 global financial crisis. 
+  I am a Research Affiliate at the MIT Department of Economics, a Research Associate at the Laboratory for Economic Analysis and Design at MIT, and a Collaborator at the MIT Media Lab Digital Currency Initiative.  My primary research focus is at the intersection of economics and cryptography, including blockchain protocol design, the study of stablecoins, and environmental market mechanisms.  I have also published two books on the 2008 global financial crisis.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: Daniel Joseph Aronoff's research on economics, cryptography, and blockchain 
+blog_description: Daniel Joseph Aronoff's research on economics, cryptography, and blockchain
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

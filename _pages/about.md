@@ -18,9 +18,9 @@ selected_papers: true
 social: true
 ---
 
-I am a Research Affiliate at the MIT Department of Economics, a Research Associate at the Laboratory for Economic Analysis and Design at MIT, and a Collaborator at the MIT Media Lab Digital Currency Initiative.  
+I am a Research Affiliate at the MIT Department of Economics, a Research Associate at the Laboratory for Economic Analysis and Design at MIT, and a Collaborator at the MIT Media Lab Digital Currency Initiative.
 
-My primary research focus is at the intersection of economics and cryptography, including blockchain protocol design, the study of stablecoins, and environmental market mechanisms.  I have also published two books on the 2008 global financial crisis.  
+My primary research focus is at the intersection of economics and cryptography, including blockchain protocol design, the study of stablecoins, and environmental market mechanisms. I have also published two books on the 2008 global financial crisis.
 
 ## Current Affiliations
 
