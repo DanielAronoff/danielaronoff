@@ -2,9 +2,10 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
-nav:  true
+description:
+nav: true
 nav_order: 2
 ---
 
-{% bibliography --query @inproceedings || @book %}
+{% bibliography --query @inproceedings %}
+{% bibliography --query @book %}
