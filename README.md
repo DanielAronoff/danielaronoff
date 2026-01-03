@@ -25,4 +25,4 @@ Then navigate to `http://localhost:4000` in your browser.
 
 ## License
 
-© 2026 Daniel Aronoff. All rights reserved. 
+© 2026 Daniel Aronoff. All rights reserved.
