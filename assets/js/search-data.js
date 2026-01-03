@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/danielaronoff/publications/";
           },
+        },{id: "nav-working-papers",
+          title: "working papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/danielaronoff/working_papers/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
